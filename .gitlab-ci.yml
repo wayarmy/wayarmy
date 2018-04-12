@@ -1,0 +1,10 @@
+image: ruby:2.5.0
+before_script:
+  - bundle install
+stages:
+  - test
+
+unit_test:
+  stage: test
+  script:
+    - rake test
