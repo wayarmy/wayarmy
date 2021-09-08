@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Quan Phuong (Wayarmy)
+
+[LinkedIn](https://www.linkedin.com/in/quanphuong/)
+
+![Wayarmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=wayarmy&theme=radical&show_icons=true&count_private=true)
 <!--
 **wayarmy/wayarmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
